@@ -1,4 +1,9 @@
-# Hackathons-Recognization-
+# Hackathons-Recognization :-
+
+* ### **Sustainable Green Energy : Unlocking Energy Efficiency with Clustering Technique, Ingenium Pragyan' 25 Hackathon (Semi-Finalist)**
+
+   * Developed 
+   * Utilized 
 
 * ### **Multi-Class Classification for Research Paper Categorization, IIT Kharagpur Data Science Hackathon 2025 (Semi-Finalist)**
 
