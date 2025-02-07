@@ -2,8 +2,8 @@
 
 * ### **Sustainable Green Energy : Unlocking Energy Efficiency with Clustering Technique, Ingenium Pragyan' 25 Hackathon (Semi-Finalist)**
 
-   * Developed 
-   * Utilized 
+   * Utilizing K-Means Clustering for Sustainable Energy Management – Apply K-Means clustering to analyze global energy access, consumption, renewable energy adoption, carbon emissions, and efficiency, identifying key patterns and trends. 
+   * Driving Data-Driven Insights for Sustainable Development Goals (SDG) – Provide actionable insights to policymakers, businesses, and energy providers to enhance sustainable energy strategies, optimize resource allocation, and support global sustainability efforts.
 
 * ### **Multi-Class Classification for Research Paper Categorization, IIT Kharagpur Data Science Hackathon 2025 (Semi-Finalist)**
 
