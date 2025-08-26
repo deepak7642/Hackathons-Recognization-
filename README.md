@@ -1,5 +1,12 @@
 # Hackathons-Recognization :-
 
+* ### **Insurance - Customer Value Enhancement, Airothon 2025 - Agentic AI Hackathon (Finalist)**
+
+   * It turns raw churn predictions into actionable, personalized retention strategies in seconds — helping teams boost loyalty, cut churn, and maximize customer lifetime value with explainable AI.
+   * End User Benefits :- **Customer Retention Managers →** (get targeted strategies instantly), **Call Center / Support Agents →** (know exactly what to offer each customer), **Business Analysts / Marketing Teams →** (design smarter retention campaigns), **Insurance Executives →** (ensure high-value customers stay loyal while controlling costs)
+
+[To know more kindly check here](https://github.com/deepak7642/Airothon-2025-Agentic-AI-Hackathon-)
+
 * ### **Sustainable Green Energy : Unlocking Energy Efficiency with Clustering Technique, Ingenium Pragyan' 25 Hackathon (Semi-Finalist)**
 
    * Utilizing K-Means Clustering for Sustainable Energy Management – Apply K-Means clustering to analyze global energy access, consumption, renewable energy adoption, carbon emissions, and efficiency, identifying key patterns and trends. 
