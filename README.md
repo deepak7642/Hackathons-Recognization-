@@ -5,7 +5,7 @@
   * This prototype blends customer behavior analytics, smart clustering, and predictive modeling to spot high-risk users before they drop off. An AI-driven recovery engine then recommends personalized re-engagement strategies — from tailored offers to smart reminders.
   * With an interactive Gradio interface, businesses can explore segments, predict cart abandonment, and tap into an AI assistant for recovery actions. It’s not just about reducing cart abandonment — it’s about transforming hesitation into conversion.
 
-  [To know more kindly check here](https://github.com/deepak7642/Project-A-Thons-ReelCode)
+    [To know more kindly check here](https://github.com/deepak7642/Project-A-Thons-ReelCode)
 
 * ### **Insurance - Customer Value Enhancement, Airothon 2025 - Agentic AI Hackathon (Finalist)**
 
@@ -18,6 +18,8 @@
 
    * Utilizing K-Means Clustering for Sustainable Energy Management – Apply K-Means clustering to analyze global energy access, consumption, renewable energy adoption, carbon emissions, and efficiency, identifying key patterns and trends. 
    * Driving Data-Driven Insights for Sustainable Development Goals (SDG) – Provide actionable insights to policymakers, businesses, and energy providers to enhance sustainable energy strategies, optimize resource allocation, and support global sustainability efforts.
+
+     [To know more kindly check here](https://github.com/deepak7642/Ingenium-Pragyan-25-Hackathon)
 
 * ### **Multi-Class Classification for Research Paper Categorization, IIT Kharagpur Data Science Hackathon 2025 (Semi-Finalist)**
 
