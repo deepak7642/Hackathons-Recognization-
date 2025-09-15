@@ -24,7 +24,10 @@
 * ### **Multi-Class Classification for Research Paper Categorization, IIT Kharagpur Data Science Hackathon 2025 (Semi-Finalist)**
 
    * Developed a multi-class classification model to distinguish between published and non-published research papers
-   * Utilized BERT for NLP and AI-driven text classification.
+   * BERT-based classifier with early stopping, achieving F1 Score = 1.0
+     
+     [To know more kindly check here](https://github.com/deepak7642/IIT-Kharagpur-Data-Science-Hackathon-2025)
+
 
 * ### **AgriTech Solution for Commodity Market Price Forecasting, VJ Hackathon 2024 (Semi-Finalist)**
 
