@@ -1,5 +1,12 @@
 # Hackathons-Recognization :-
 
+* ### **E-commerce – AI Cart Recovery Agent, ReelCode's August 2025 Project-A-Thons (Top 10 Runner-Up)**
+
+  * This prototype blends customer behavior analytics, smart clustering, and predictive modeling to spot high-risk users before they drop off. An AI-driven recovery engine then recommends personalized re-engagement strategies — from tailored offers to smart reminders.
+  * With an interactive Gradio interface, businesses can explore segments, predict cart abandonment, and tap into an AI assistant for recovery actions. It’s not just about reducing cart abandonment — it’s about transforming hesitation into conversion.
+
+  [To know more kindly check here](https://github.com/deepak7642/Project-A-Thons-ReelCode)
+
 * ### **Insurance - Customer Value Enhancement, Airothon 2025 - Agentic AI Hackathon (Finalist)**
 
    * It turns raw churn predictions into actionable, personalized retention strategies in seconds — helping teams boost loyalty, cut churn, and maximize customer lifetime value with explainable AI.
