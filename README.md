@@ -37,7 +37,7 @@
      [To know more kindly check here](https://github.com/deepak7642/VJ-Hackathon-2024)
 
 
-* Fiverr : End-to-End Project includes Deployment 
+* ### **Fiverr : End-to-End Project includes Deployment** 
 
 **Problem statement -**
 Recently attackers are using freelance job sites such as Fiverr to distribute malware disguised as job offers. These job offers contain attachments that pretend to be the job brief but are actually installers for keyloggers such as Agent Tesla or Remote Access Trojan (RATs). Due to this many users lost their earnings, bidding fees and fake client projects, also some users lost their accounts too. Many of my LinkedIn connections faced it and some of them lost their professional growth, side income and stability.
@@ -51,7 +51,7 @@ Just after a month of this attack Fiverr come-up with a Kaggle competition on th
 ***Explore the solution here :- [Fiverr : End-to-End Project includes Deployment notebook](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)***
 
 
-* Audit Risk : ML will help !!!  
+* ### **Audit Risk : ML will help !!!**  
 
 **Problem Statement and about dataset :-**
 The goal of the dataset is to help the auditors by building a classification model that can predict the fraudulent firm on the basis the present and historical risk factors.
