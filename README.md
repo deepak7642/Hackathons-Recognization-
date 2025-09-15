@@ -34,5 +34,7 @@
    *  Developed an AgriTech solution for Commodity Market Price Forecasting using AI/ML and predictive analytics to address agricultural challenges.
    *  Leveraged data-driven models for smarter decision-making in the agricultural sector.
 
+     [To know more kindly check here](https://github.com/deepak7642/VJ-Hackathon-2024)
+
 
 [For other relevant projects](https://github.com/deepak7642/Unique-and-Real-World-based-Projects)
