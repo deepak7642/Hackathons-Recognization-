@@ -1,5 +1,12 @@
 # Hackathons-Recognization :-
 
+* ### **Track-B : BDH-Driven Continuous Narrative Reasoning, IIT Kharagpur Data Science Hackathon 2026 (Semi-Finalist)**
+
+  * This solution proposes a belief-driven framework to analyze narrative consistency between character statements and their backstories using a Belief–Dialogue–History (BDH) representation. It evaluates signals such as narrative strength, backstory strength, and narrative–backstory compatibility to detect alignment or contradictions.
+  * Engineered belief features like strength gap, compatibility interaction, and belief mismatch score help capture conflicts between narrative claims and historical context, enabling interpretable detection of consistent and contradictory narratives.
+
+    [To know more kindly check here](https://github.com/deepak7642/IIT-Kharagpur-Data-Science-Hackathon-2026---Track-B)
+
 * ### **Gamified: A Gentle Digital Fast, TechSprint – Leveraging the Power of AI (Finalist)**
 
   * This solution integrates digital behavior analytics, GenAI-powered risk classification, and adaptive recommendation systems to detect unhealthy digital usage patterns early. Behavioral signals such as screen time and engagement trends are analyzed to classify users into five digital wellness risk levels — Healthy, Mild, Moderate, High, and Critical.
