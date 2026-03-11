@@ -1,6 +1,6 @@
 # Hackathons-Recognization :-
 
-* ### **Gamified: A Gentle Digital Fast (AI for Social Good), TechSprint – Leveraging the Power of AI (Finalist)**
+* ### **Gamified: A Gentle Digital Fast, TechSprint – Leveraging the Power of AI (Finalist)**
 
   * This solution integrates digital behavior analytics, GenAI-powered risk classification, and adaptive recommendation systems to detect unhealthy digital usage patterns early. Behavioral signals such as screen time and engagement trends are analyzed to classify users into five digital wellness risk levels — Healthy, Mild, Moderate, High, and Critical.
   * And each risk level is mapped to intuitive gamified roles, making digital wellness more engaging and easier for users to understand. A personalized recommendation engine then suggests targeted wellness challenges tailored to the user’s behavioral profile.
