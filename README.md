@@ -1,5 +1,14 @@
 # Hackathons-Recognization :-
 
+* ### **Represented Farmoid at the Bharat AI Summit 2026 at Bharat Mandapam (New Delhi)**
+
+  * Selected among the **Top 500 startups out of 40,000+ applications** to represent **Farmoid Robotech at AI Summit India 2026 (Bharat Mandapam)**, showcasing our AI-driven innovation on a national platform.
+  * Over the 5-day summit, we engaged with **1,000+ visitors**, including stakeholders from **AgriTech, BFSI, FinTech, Telecom, Semiconductor, Cloud & GPU Infrastructure, Marketing, Legal, and Startup Funding organizations**. Interactions also included **academic institutions, innovation communities, and emerging startups** from multiple Indian states, along with **international delegates from the United States, Japan, Africa, Germany, and Kuwait**, as well as representatives from ministries such as **Agriculture, IT, Finance, External Affairs, and Energy**.
+  * These discussions enabled us to explore **collaboration opportunities, strategic partnerships, and potential investment avenues** to accelerate AI-driven innovation.
+
+    [To know more kindly check here](https://www.linkedin.com/posts/deepak-kaura-66a903162_bharataisubmit-aistartup-postoftheday-activity-7430974591545815040-TbX7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACbu4_IBlVHQZAquFVkDr4cnm6XRisw_WD4)
+
+
 * ### **Track-B : BDH-Driven Continuous Narrative Reasoning, IIT Kharagpur Data Science Hackathon 2026 (Semi-Finalist)**
 
   * This solution proposes a belief-driven framework to analyze narrative consistency between character statements and their backstories using a Belief–Dialogue–History (BDH) representation. It evaluates signals such as narrative strength, backstory strength, and narrative–backstory compatibility to detect alignment or contradictions.
@@ -51,6 +60,9 @@
 
      [To know more kindly check here](https://github.com/deepak7642/VJ-Hackathon-2024)
 
+----------
+
+## ***Note - Seeking for more projects :-***
 
 * ### **Fiverr : End-to-End Project includes Deployment** 
 
@@ -87,5 +99,5 @@ This research work is a case study of an external government audit company which
 
 ------
 
-#### Note - Seeking for more projects click here :- [More projects](https://www.kaggle.com/deepakkaura/code)
+#### For more click here :- [More projects](https://www.kaggle.com/deepakkaura/code)
 
