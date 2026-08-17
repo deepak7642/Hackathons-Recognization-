@@ -1,5 +1,13 @@
 # 🏆 Awards & Recognition :-
 
+* ### **Financial Independence, Retire Early (FIRE) Path Planner — The Economic Times AI Hackathon 2026 (Semi-Finalist)**
+
+  * This solution integrates financial rule-based scoring, FIRE calculations, and LLM-powered intelligence to assess an individual’s financial readiness. Key financial inputs such as savings, investments, expenses, income, age, inflation, and expected returns are analyzed to determine FIRE readiness and identify potential financial risks.
+  * The system translates financial analysis into personalized retirement planning strategies, including goal-based SIP requirements, investment gap analysis, and dynamic asset allocation based on the user’s financial profile and risk considerations.
+  * Through an interactive Gradio-based application, users receive an end-to-end FIRE planning experience that combines readiness assessment, investment planning, risk identification, and LLM-powered financial guidance — turning complex financial calculations into actionable steps toward financial independence.
+
+    [To know more kindly check here](https://github.com/deepak7642/ET-Gen-AI-Hackathon)
+
 * ### **Represented Farmoid at the Bharat AI Summit 2026 at Bharat Mandapam (New Delhi)**
 
   * Selected among the **Top 500 startups out of 40,000+ applications** to represent **Farmoid Robotech at AI Summit India 2026 (Bharat Mandapam)**, showcasing our AI-driven innovation on a national platform.
