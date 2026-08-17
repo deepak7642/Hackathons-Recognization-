@@ -16,6 +16,14 @@
 
     [To know more kindly check here](https://www.linkedin.com/posts/deepak-kaura-66a903162_bharataisubmit-aistartup-postoftheday-activity-7430974591545815040-TbX7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACbu4_IBlVHQZAquFVkDr4cnm6XRisw_WD4)
 
+* ### **Gamified: A Gentle Digital Fast, TechSprint – Leveraging the Power of AI (Finalist)**
+
+  * This solution integrates digital behavior analytics, GenAI-powered risk classification, and adaptive recommendation systems to detect unhealthy digital usage patterns early. Behavioral signals such as screen time and engagement trends are analyzed to classify users into five digital wellness risk levels — Healthy, Mild, Moderate, High, and Critical.
+  * And each risk level is mapped to intuitive gamified roles, making digital wellness more engaging and easier for users to understand. A personalized recommendation engine then suggests targeted wellness challenges tailored to the user’s behavioral profile.
+  * Through a continuous feedback loop, the system dynamically refines recommendations as user habits evolve, promoting gradual behavior change. Instead of enforcing restrictive limits, the platform encourages sustainable digital well-being through awareness, engagement, and positive habit formation.
+
+    [To know more kindly check here](https://github.com/deepak7642/TechSprint---AI-Hackathon-AI-for-Social-Good-Prototype-)
+    
 
 * ### **Track-B : BDH-Driven Continuous Narrative Reasoning, IIT Kharagpur Data Science Hackathon 2026 (Semi-Finalist)**
 
@@ -24,13 +32,7 @@
 
     [To know more kindly check here](https://github.com/deepak7642/IIT-Kharagpur-Data-Science-Hackathon-2026---Track-B)
 
-* ### **Gamified: A Gentle Digital Fast, TechSprint – Leveraging the Power of AI (Finalist)**
 
-  * This solution integrates digital behavior analytics, GenAI-powered risk classification, and adaptive recommendation systems to detect unhealthy digital usage patterns early. Behavioral signals such as screen time and engagement trends are analyzed to classify users into five digital wellness risk levels — Healthy, Mild, Moderate, High, and Critical.
-  * And each risk level is mapped to intuitive gamified roles, making digital wellness more engaging and easier for users to understand. A personalized recommendation engine then suggests targeted wellness challenges tailored to the user’s behavioral profile.
-  * Through a continuous feedback loop, the system dynamically refines recommendations as user habits evolve, promoting gradual behavior change. Instead of enforcing restrictive limits, the platform encourages sustainable digital well-being through awareness, engagement, and positive habit formation.
-
-    [To know more kindly check here](https://github.com/deepak7642/TechSprint---AI-Hackathon-AI-for-Social-Good-Prototype-)
 
 * ### **E-commerce – AI Cart Recovery Agent, ReelCode's August 2025 Project-A-Thons (Top 10 Runner-Up)**
 
